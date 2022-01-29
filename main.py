@@ -3,6 +3,7 @@ from turtle import Screen
 
 
 #note: running this through replit makes it super weird and buggy (at least from my experience) + replit doesn't support most of the fonts used here so the tutorial will be messed up
+#created by Leo Ni and Olam Ho, section 9-4 (as you'll see in the credits)
 
 
 screen = Screen()
